@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 语音识别对话框动画 -->
+    <style name="speechbottomsheetdialog_animation">
+        <item name="android:windowEnterAnimation">@anim/speechbottomsheetdialog_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/speechbottomsheetdialog_bottom_out</item>
+    </style>
+</resources>

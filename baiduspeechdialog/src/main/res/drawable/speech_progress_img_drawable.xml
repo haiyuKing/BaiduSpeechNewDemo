@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 语音对话框使用的进度加载对话框进度圆圈 -->
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/speech_loading"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:fromDegrees="0.0"
+    android:toDegrees="360.0"
+    android:repeatMode="restart"
+    />
+
